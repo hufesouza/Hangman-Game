@@ -1,0 +1,46 @@
+/Users/hugof/Projects/HangmanGame/HangmanGame/bin/Debug/net5.0/HangmanGame.deps.json
+/Users/hugof/Projects/HangmanGame/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.json
+/Users/hugof/Projects/HangmanGame/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.dev.json
+/Users/hugof/Projects/HangmanGame/HangmanGame/bin/Debug/net5.0/HangmanGame.dll
+/Users/hugof/Projects/HangmanGame/HangmanGame/bin/Debug/net5.0/ref/HangmanGame.dll
+/Users/hugof/Projects/HangmanGame/HangmanGame/bin/Debug/net5.0/HangmanGame.pdb
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.AssemblyReference.cache
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfoInputs.cache
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfo.cs
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.CoreCompileInputs.cache
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.dll
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/ref/HangmanGame.dll
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.pdb
+/Users/hugof/Projects/HangmanGame/HangmanGame/obj/Debug/net5.0/HangmanGame.genruntimeconfig.cache
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/bin/Debug/net5.0/HangmanGame.exe
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/bin/Debug/net5.0/HangmanGame.deps.json
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.json
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.dev.json
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/bin/Debug/net5.0/HangmanGame.dll
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/bin/Debug/net5.0/HangmanGame.pdb
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.AssemblyReference.cache
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfoInputs.cache
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfo.cs
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.CoreCompileInputs.cache
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.dll
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/refint/HangmanGame.dll
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.pdb
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/HangmanGame.genruntimeconfig.cache
+C:/Users/HFerreira/Downloads/Hangman-main/HangmanGame/obj/Debug/net5.0/ref/HangmanGame.dll
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/bin/Debug/net5.0/HangmanGame.deps.json
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.json
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/bin/Debug/net5.0/HangmanGame.runtimeconfig.dev.json
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/bin/Debug/net5.0/HangmanGame.dll
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/bin/Debug/net5.0/ref/HangmanGame.dll
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/bin/Debug/net5.0/HangmanGame.pdb
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.AssemblyReference.cache
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfoInputs.cache
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.AssemblyInfo.cs
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.csproj.CoreCompileInputs.cache
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.dll
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/ref/HangmanGame.dll
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.pdb
+/Users/hugof/Downloads/Hangman-Game-main 2/HangmanGame/obj/Debug/net5.0/HangmanGame.genruntimeconfig.cache
